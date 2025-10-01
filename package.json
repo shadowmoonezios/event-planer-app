@@ -1,0 +1,21 @@
+{
+  "name": "event-planer-app",
+  "version": "1.0.0",
+  "description": "Eine Anwendung zur Planung und Verwaltung von Veranstaltungen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Ihr Name",
+  "license": "MIT"
+}
