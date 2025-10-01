@@ -1,6 +1,6 @@
 {
   "name": "event-planer-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eine Anwendung zur Planung und Verwaltung von Veranstaltungen",
   "main": "index.js",
   "scripts": {
